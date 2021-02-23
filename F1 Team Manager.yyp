@@ -9,6 +9,7 @@
     {"id":{"name":"Obj_MainMenu","path":"objects/Obj_MainMenu/Obj_MainMenu.yy",},"order":0,},
     {"id":{"name":"Font_GUI","path":"fonts/Font_GUI/Font_GUI.yy",},"order":2,},
     {"id":{"name":"Room_Tutorial","path":"rooms/Room_Tutorial/Room_Tutorial.yy",},"order":5,},
+    {"id":{"name":"Font_TutorialText","path":"fonts/Font_TutorialText/Font_TutorialText.yy",},"order":3,},
     {"id":{"name":"Obj_TeamSelect","path":"objects/Obj_TeamSelect/Obj_TeamSelect.yy",},"order":1,},
     {"id":{"name":"Spr_MainMenu_Arrow","path":"sprites/Spr_MainMenu_Arrow/Spr_MainMenu_Arrow.yy",},"order":0,},
     {"id":{"name":"Room_TeamWarning","path":"rooms/Room_TeamWarning/Room_TeamWarning.yy",},"order":3,},
