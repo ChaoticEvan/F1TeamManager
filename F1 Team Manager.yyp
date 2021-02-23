@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"Obj_TeamWarning","path":"objects/Obj_TeamWarning/Obj_TeamWarning.yy",},"order":2,},
+    {"id":{"name":"Obj_GameOver","path":"objects/Obj_GameOver/Obj_GameOver.yy",},"order":5,},
     {"id":{"name":"Scr_RaceOneEvent1","path":"scripts/Scr_RaceOneEvent1/Scr_RaceOneEvent1.yy",},"order":6,},
     {"id":{"name":"Scr_MainMenu","path":"scripts/Scr_MainMenu/Scr_MainMenu.yy",},"order":0,},
     {"id":{"name":"Scr_ResetTeamVariables","path":"scripts/Scr_ResetTeamVariables/Scr_ResetTeamVariables.yy",},"order":4,},
@@ -23,8 +24,10 @@
     {"id":{"name":"Scr_TeamWarning","path":"scripts/Scr_TeamWarning/Scr_TeamWarning.yy",},"order":2,},
     {"id":{"name":"Scr_DrawEvent","path":"scripts/Scr_DrawEvent/Scr_DrawEvent.yy",},"order":5,},
     {"id":{"name":"Scr_DrawTutorial","path":"scripts/Scr_DrawTutorial/Scr_DrawTutorial.yy",},"order":3,},
+    {"id":{"name":"Room_GameOver","path":"rooms/Room_GameOver/Room_GameOver.yy",},"order":6,},
     {"id":{"name":"Room_TeamSelect","path":"rooms/Room_TeamSelect/Room_TeamSelect.yy",},"order":2,},
     {"id":{"name":"Spr_RaceBackground","path":"sprites/Spr_RaceBackground/Spr_RaceBackground.yy",},"order":1,},
+    {"id":{"name":"Scr_LoseGameMsg","path":"scripts/Scr_LoseGameMsg/Scr_LoseGameMsg.yy",},"order":10,},
     {"id":{"name":"Room_Race1","path":"rooms/Room_Race1/Room_Race1.yy",},"order":4,},
     {"id":{"name":"Room_MainMenu","path":"rooms/Room_MainMenu/Room_MainMenu.yy",},"order":0,},
   ],
@@ -45,6 +48,7 @@
     {"roomId":{"name":"Room_TeamWarning","path":"rooms/Room_TeamWarning/Room_TeamWarning.yy",},},
     {"roomId":{"name":"Room_Race1","path":"rooms/Room_Race1/Room_Race1.yy",},},
     {"roomId":{"name":"Room_Tutorial","path":"rooms/Room_Tutorial/Room_Tutorial.yy",},},
+    {"roomId":{"name":"Room_GameOver","path":"rooms/Room_GameOver/Room_GameOver.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
