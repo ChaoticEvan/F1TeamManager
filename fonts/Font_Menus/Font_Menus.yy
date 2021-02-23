@@ -131,7 +131,7 @@
     "path": "folders/Fonts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Font_MainMenu",
+  "name": "Font_Menus",
   "tags": [],
   "resourceType": "GMFont",
 }
