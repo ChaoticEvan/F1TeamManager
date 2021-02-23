@@ -8,6 +8,7 @@
     {"id":{"name":"Spr_MainMenu_Arrow","path":"sprites/Spr_MainMenu_Arrow/Spr_MainMenu_Arrow.yy",},"order":0,},
     {"id":{"name":"Room_TeamWarning","path":"rooms/Room_TeamWarning/Room_TeamWarning.yy",},"order":3,},
     {"id":{"name":"Scr_TeamSelect","path":"scripts/Scr_TeamSelect/Scr_TeamSelect.yy",},"order":1,},
+    {"id":{"name":"Scr_TeamWarning","path":"scripts/Scr_TeamWarning/Scr_TeamWarning.yy",},"order":2,},
     {"id":{"name":"Room_TeamSelect","path":"rooms/Room_TeamSelect/Room_TeamSelect.yy",},"order":2,},
     {"id":{"name":"Room_MainMenu","path":"rooms/Room_MainMenu/Room_MainMenu.yy",},"order":0,},
   ],
