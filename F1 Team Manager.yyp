@@ -6,6 +6,7 @@
     {"id":{"name":"Scr_ResetTeamVariables","path":"scripts/Scr_ResetTeamVariables/Scr_ResetTeamVariables.yy",},"order":4,},
     {"id":{"name":"Scr_RaceOneEvent2","path":"scripts/Scr_RaceOneEvent2/Scr_RaceOneEvent2.yy",},"order":7,},
     {"id":{"name":"Font_Menus","path":"fonts/Font_Menus/Font_Menus.yy",},"order":0,},
+    {"id":{"name":"Scr_DrawEventResult","path":"scripts/Scr_DrawEventResult/Scr_DrawEventResult.yy",},"order":9,},
     {"id":{"name":"Obj_Tutorial","path":"objects/Obj_Tutorial/Obj_Tutorial.yy",},"order":3,},
     {"id":{"name":"Spr_Races_Arrow","path":"sprites/Spr_Races_Arrow/Spr_Races_Arrow.yy",},"order":2,},
     {"id":{"name":"Obj_MainMenu","path":"objects/Obj_MainMenu/Obj_MainMenu.yy",},"order":0,},
